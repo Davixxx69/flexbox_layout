@@ -1,0 +1,18 @@
+.navbar {
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 14px 24px;
+background: #e7e8ec;
+}
+.nav-links {
+display: flex;
+gap: 20px;
+}
+.container {
+  width: 90%;
+  margin: 20px auto;
+}
+.menu {
+background: #e7e8ec;
+}
